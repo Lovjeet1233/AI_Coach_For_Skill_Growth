@@ -71,7 +71,7 @@ Technical assessments focused on user-specified skills, with support for various
 - **UI Components**: Radix UI, Lucide React icons
 - **Authentication**: Clerk
 - **AI Integration**: Google Generative AI
-- **Database**: Prisma with database (type not specified)
+- **Database**: Prisma with database NeonDb and postgresql 
 - **Form Handling**: React Hook Form with Zod validation
 - **Data Visualization**: Recharts
 - **PDF Generation**: html2pdf.js
