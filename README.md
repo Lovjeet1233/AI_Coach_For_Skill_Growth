@@ -2,7 +2,7 @@
 
 A comprehensive career development platform that leverages AI to help professionals advance their careers through personalized guidance, skill assessment, and job application tools.
 
-![JobsForces Hero Image](./public/screenshots/hero-section.![Screenshot_20250329_163215](https://github.com/user-attachments/assets/1f15a6ea-5f1a-413c-92af-bc03dd134d17)
+![Screenshot_20250329_163215](https://github.com/user-attachments/assets/1f15a6ea-5f1a-413c-92af-bc03dd134d17)
 png)
 
 ## 🚀 Features
@@ -21,8 +21,7 @@ Access up-to-date market intelligence including:
 - Current demand levels for specific skills
 - Top skills in demand (e.g., Solidity, Python, Ethereum, Cryptography, Data Structures)
 - Detailed salary ranges by role with minimum, median, and maximum figures
-
-![Industry Insights](./public/screenshots/industry-insights.png)![Screenshot_![Screenshot_20250329_163315](https://github.com/user-attachments/assets/712276bf-19b0-4017-9962-8eb895887af5)
+![Screenshot_![Screenshot_20250329_163315](https://github.com/user-attachments/assets/712276bf-19b0-4017-9962-8eb895887af5)
 20250329_163259](https://github.com/user-attachments/assets/fc288866-b562-4b3e-a861-4dffa5937849)
 
 
@@ -35,7 +34,7 @@ A structured resume building tool with:
 ![Screenshot_20250329_163345](https://github.com/user-attachments/assets/b9f1af33-d6d0-464f-83aa-b30d6cde000c)
 ![Screenshot_20250329_163356](https://github.com/user-attachments/assets/5e792e03-714e-44f1-8898-7774616fbf76)
 
-![Resume Builder](./public/screenshots/resume-builder.png)
+
 
 ### AI Cover Letter Creator
 Create and manage multiple cover letters tailored to specific positions with:
@@ -43,7 +42,7 @@ Create and manage multiple cover letters tailored to specific positions with:
 - Customization tools to highlight relevant experience
 - Export options for easy application submission
 
-![Cover Letter Creator](./public/screenshots/cover-letter-creator.png)
+
 ![Screenshot_20250329_163413](https://github.com/user-attachments/assets/097057f5-a913-4a5a-acae-7f07626074b8)
 
 ![Screenshot_20250329_163420](https://github.com/user-attachments/assets/6b729256-b866-4a4d-a409-cdafb97372b5)
@@ -60,7 +59,7 @@ Comprehensive interview prep features including:
 ![Screenshot_20250329_163505](https://github.com/user-attachments/assets/3fd64ae5-fe43-47c5-9e59-b1efa1b53008)
 
 
-![Interview Preparation](./public/screenshots/interview-prep.png)
+
 
 ### Skills Assessment
 Technical assessments focused on user-specified skills, with support for various technologies including blockchain development (Solidity, Rust, Foundry), web development, data science, and more.
